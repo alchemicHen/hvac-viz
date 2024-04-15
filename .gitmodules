@@ -1,0 +1,3 @@
+[submodule "calplot"]
+	path = calplot
+	url = https://github.com/alchemicHen/calplot.git
