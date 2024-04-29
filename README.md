@@ -12,10 +12,10 @@ Repository for Informatics Capstone - Heating and Cooling Time Series Visualizat
 [Initial Ingestion and Hourly Timeseries Testing](init_ingest_viz.ipynb)  
 
 
-## [Data and Simulations](\Beopt%20Viz)
+## [Data and Simulations](/Beopt%20Viz)
 
-## [Documentation and Reports](\Documentation)
+## [Documentation and Reports](/Documentation)
 
-## [Initial Research](\Initial%20Research)
+## [Initial Research](/Initial%20Research)
 
-## [Visualization Outputs](\Viz_Outputs)
+## [Visualization Outputs](/Viz_Outputs)
