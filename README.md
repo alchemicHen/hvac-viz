@@ -5,9 +5,12 @@ Repository for Informatics Capstone - Heating and Cooling Time Series Visualizat
 # [Poster](chen-SP24-capstone-34-S2.pdf)
 
 ## Notebooks
-[Main Calendar and Daily Visualization](calendar_daily_viz.ipynb)
-[Progressively Smaller System Calendar](alt_calendar_viz.ipynb)
-[Initial Ingestion and Hourly Timeseries Testing](init_ingest_viz.ipynb)
+[Main Calendar and Daily Visualization](calendar_daily_viz.ipynb)  
+
+[Progressively Smaller System Calendar](alt_calendar_viz.ipynb)  
+
+[Initial Ingestion and Hourly Timeseries Testing](init_ingest_viz.ipynb)  
+
 
 ## [Data and Simulations](\Beopt%20Viz)
 
