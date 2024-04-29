@@ -12,10 +12,10 @@ Repository for Informatics Capstone - Heating and Cooling Time Series Visualizat
 [Initial Ingestion and Hourly Timeseries Testing](init_ingest_viz.ipynb)  
 
 
-## [Data and Simulations](/Beopt%20Viz)
+## [Data and Simulations](https://github.com/alchemicHen/hvac-viz/tree/main/BEopt%20Viz)
 
-## [Documentation and Reports](/Documentation)
+## [Documentation and Reports](https://github.com/alchemicHen/hvac-viz/tree/main/Documentation)
 
-## [Initial Research](/Initial%20Research)
+## [Initial Research](https://github.com/alchemicHen/hvac-viz/tree/main/Initial%20Research)
 
-## [Visualization Outputs](/Viz_Outputs)
+## [Visualization Outputs](https://github.com/alchemicHen/hvac-viz/tree/main/Viz_Outputs)
